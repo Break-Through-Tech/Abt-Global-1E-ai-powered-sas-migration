@@ -19,7 +19,7 @@
 ---
 
 ## 📋 BTT Internal Evaluation Notes
-*(This section is for BTT staff only — remove before sharing with students)*
+*(This section is for BTT staff and CAs only — remove before sharing with students)*
 
 | Check   | Status | Notes                                                                   |
 |---------|--------|-------------------------------------------------------------------------|
