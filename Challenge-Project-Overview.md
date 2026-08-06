@@ -64,7 +64,7 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 | Month      | Milestone                 | Key Activities                                                   |
 |------------|---------------------------|------------------------------------------------------------------|
-| **September** | Data Understanding        | Explore dataset, handle missing values, document findings       |
+| **September** | Data Exploration & Setup        | Explore dataset, handle missing values, document findings       |
 | **October**   | Model Development         | Train baseline model, experiment with approaches, iterate      |
 | **November**  | Evaluation & Presentation  | Finalize model, prepare presentation, document results          |
 
