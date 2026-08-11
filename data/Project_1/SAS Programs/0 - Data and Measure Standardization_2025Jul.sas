@@ -13,7 +13,7 @@
 
 /*This file is used to derive analysis data 'Std_data_2025Jul_analysis', which will be used in programs 1 and 2*/
 %LET PATH1=G:\breakthrough\Starrating; /* For 2025 Jul released data, MUST BE CHANGED */
-%LET PATH2=G:\breakthrough\SAS output\Program_0;/* For derived data sets, MUST BE CHANGED */
+%LET PATH2=G:\breakthrough\SAS output;/* For derived data sets, MUST BE CHANGED */
 %LET PATH3=G:\breakthrough\SAS pack;  /* For SAS macros , MUST BE CHANGED  */
 
 LIBNAME HC "&PATH1";
