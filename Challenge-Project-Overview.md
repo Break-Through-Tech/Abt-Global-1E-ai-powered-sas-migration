@@ -1,7 +1,8 @@
 # AI-Powered SAS Migration
 
 **Company / Org:** Abt Global  
-**Challenge Advisor:** Sameer Desale, Sameer.Desale@abtglobal.com  
+**Challenge Advisor:** Sameer Desale, Sameer.Desale@abtglobal.com 
+**AI Coach:** Aram Ramos, aram.ramos@breakthroughtech.org
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
