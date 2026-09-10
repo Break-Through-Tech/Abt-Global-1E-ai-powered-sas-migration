@@ -9,7 +9,7 @@
 |  Sameer Desale   | @dsamee | Challenge Advisor            |
 |  Aram Ramos  | @aramseries  | AI Coach  |
 |   Emma Jee   | @emmners |   Team Member  |
-|       |        |   |
+|  Sudeshna Deb  | @sudeshnadeb11 | Team Member  |
 |        |     |           |
 
 ---
