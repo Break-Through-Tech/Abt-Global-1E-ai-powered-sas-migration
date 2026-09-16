@@ -13,6 +13,7 @@
 | Aster Cheung | @Aster-Cheung | Team Member |
 |Sinmiloluwa Akande | @sinmiloluwa-mbj | Team Member  |
 |Agrima Jain | @agrimajn | Team Member  |
+| Juan Contreras | @xJU4Nx | Team Member |
 ---
 
 ## 🎯 **Project Highlights**
