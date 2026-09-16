@@ -12,7 +12,7 @@
 |  Sudeshna Deb  | @sudeshnadeb11 | Team Member  |
 | Aster Cheung | @Aster-Cheung | Team Member |
 |Sinmiloluwa Akande | @sinmiloluwa-mbj | Team Member  |
-
+|Agrima Jain | @agrimajn | Team Member  |
 ---
 
 ## 🎯 **Project Highlights**
