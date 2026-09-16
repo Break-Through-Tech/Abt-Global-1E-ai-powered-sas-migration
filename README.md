@@ -11,7 +11,7 @@
 |   Emma Jee   | @emmners |   Team Member  |
 |  Sudeshna Deb  | @sudeshnadeb11 | Team Member  |
 | Aster Cheung | @Aster-Cheung | Team Member |
-|        |     |           |
+|Sinmiloluwa Akande | @sinmiloluwa-mbj | Team Member  |
 
 ---
 
