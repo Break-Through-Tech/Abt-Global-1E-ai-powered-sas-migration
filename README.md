@@ -15,6 +15,7 @@
 |Agrima Jain | @agrimajn | Team Member  |
 | Juan Contreras | @xJU4Nx | Team Member |
 |God'iss Stone | @glstone-glitch | Team Member |
+|Moukthika Nellutla| @Mnellutla1120 | Team Member |
 ---
 
 ## 🎯 **Project Highlights**
