@@ -80,6 +80,10 @@ This project leverages pre-trained Large Language Models (LLMs) within an Agenti
 - Agent-based workflow orchestration to coordinate translation, validation, debugging, and documentation tasks.
 - Rule-based and programmatic validation techniques to compare SAS and Python outputs.
 
+### Migration Agent
+The LangGraph-based agent lives in [`sas_agent/`](sas_agent/README.md): it analyzes each SAS program
+and translates it to Python. Quick start: `python -m sas_agent program0`.
+
 ### Input Features
 - SAS source code, including DATA steps, PROC SQL statements, and macro logic.
 - Input datasets and intermediate outputs generated throughout the SAS pipeline.
