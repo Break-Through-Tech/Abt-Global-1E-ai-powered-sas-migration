@@ -172,7 +172,8 @@ pip install -r requirements.txt
 ### 4.2 Add your Gemini API key
 
 1. Get a key at <https://aistudio.google.com/apikey>.
-2. Create a file named `.env` in the **repository root** (next to the main `README.md`):
+2. Create a file named `.env` in the **repository root** (next to the main `README.md`) by copying
+   the template, `cp .env_template .env`, then fill in your key:
 
    ```bash
    # .env
