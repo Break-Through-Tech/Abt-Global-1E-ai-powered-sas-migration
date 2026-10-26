@@ -1,1 +1,14 @@
+.env
+.env.*
+!.env_template
 
+#Python Cache files
+pycache/
+*.py[cod]
+
+#Virtual environment
+.venv/
+venv/
+
+#Locak development files
+.vscode/
