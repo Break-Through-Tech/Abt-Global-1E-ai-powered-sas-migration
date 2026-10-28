@@ -1,5 +1,6 @@
 .env
 .env.*
+
 !.env_template
 
 #Python Cache files
