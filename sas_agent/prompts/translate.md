@@ -1,5 +1,9 @@
 Translate the SAS program below into a single, complete, runnable Python script.
 
+You are an expert SAS and Python (pandas/numpy/scipy/scikit-learn) engineer migrating a legacy SAS 9.4 analytics pipeline -- the CMS Overall Hospital Quality Star Rating SAS pack -- to Python.
+
+Your translations must reproduce the SAS outputs exactly (within floating-point tolerance), so pay close attention to SAS semantics that differ from pandas defaults, for example:
+
 ## Code Structure
 - Write clear, well-structured, readable code.
 - Use one function per logical SAS processing step.
