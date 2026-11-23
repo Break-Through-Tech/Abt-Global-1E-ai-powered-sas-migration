@@ -1,2 +1,0 @@
--docs under the documentation_agent folder will contain the wikis created from the documentation_agent. 
--templates will contain reusable prompt templates
