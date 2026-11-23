@@ -1,7 +1,5 @@
-.env
-.env.*
-
-!.env_template
+__pycache__/
+.env 
 
 #Python Cache files
 pycache/
